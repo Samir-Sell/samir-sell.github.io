@@ -1,0 +1,481 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2422466667,
+                    49.279425
+                ]
+            },
+            "properties": {
+                "common_name": "Isabella Tiger Moth",
+                "scientific_name": "Pyrrharctia isabella",
+                "proposed_name": "Isabella Tiger Moth",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870192/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.238255,
+                    49.2747966667
+                ]
+            },
+            "properties": {
+                "common_name": "Rim lichen",
+                "scientific_name": "Lecanora carpinea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870153/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.23827,
+                    49.2741133333
+                ]
+            },
+            "properties": {
+                "common_name": "burdocks",
+                "scientific_name": "Arctium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870138/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2382216667,
+                    49.2704883333
+                ]
+            },
+            "properties": {
+                "common_name": "spruces",
+                "scientific_name": "Picea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870113/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2387083333,
+                    49.2752633333
+                ]
+            },
+            "properties": {
+                "common_name": "tree mat homalothecium moss",
+                "scientific_name": "Homalothecium fulgescens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870102/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.239455,
+                    49.2752466667
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Amplaria",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870048/large.jpg",
+                "taxon_class": "Animalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2394883333,
+                    49.2752466667
+                ]
+            },
+            "properties": {
+                "common_name": null,
+                "scientific_name": "Unknown",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870036/large.jpg",
+                "taxon_class": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2394466667,
+                    49.2752783333
+                ]
+            },
+            "properties": {
+                "common_name": "Common Shiny Woodlouse",
+                "scientific_name": "Oniscus asellus",
+                "proposed_name": "Common Shiny Woodlouse",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870022/large.jpg",
+                "taxon_class": "Animalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2432631565,
+                    49.2786899871
+                ]
+            },
+            "properties": {
+                "common_name": "Thorn-tailed Bark Centipede",
+                "scientific_name": "Scolopocryptops spinicaudus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466870007/large.jpg",
+                "taxon_class": "Animalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2398866667,
+                    49.275575
+                ]
+            },
+            "properties": {
+                "common_name": "magnificent leafy moss",
+                "scientific_name": "Plagiomnium venustum",
+                "proposed_name": "magnificent leafy moss",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869978/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2411383333,
+                    49.2762083333
+                ]
+            },
+            "properties": {
+                "common_name": "spruces",
+                "scientific_name": "Picea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869927/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2415633333,
+                    49.2762783333
+                ]
+            },
+            "properties": {
+                "common_name": "Common Earthworm",
+                "scientific_name": "Lumbricus terrestris",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869911/large.jpg",
+                "taxon_class": "Animalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2417583333,
+                    49.2762033333
+                ]
+            },
+            "properties": {
+                "common_name": "Pinwheel snails",
+                "scientific_name": "Charopidae",
+                "proposed_name": "Pinwheel snails",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869895/large.jpg",
+                "taxon_class": "Mollusca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.242105,
+                    49.2766783333
+                ]
+            },
+            "properties": {
+                "common_name": "Big Smoky Bracket",
+                "scientific_name": "Bjerkandera fumosa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869870/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2401872025,
+                    49.2793178854
+                ]
+            },
+            "properties": {
+                "common_name": "Wrigglers",
+                "scientific_name": "Eisenia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869847/large.jpg",
+                "taxon_class": "Animalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2429416667,
+                    49.2770283333
+                ]
+            },
+            "properties": {
+                "common_name": "Red Huckleberry",
+                "scientific_name": "Vaccinium parvifolium",
+                "proposed_name": "Red Huckleberry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869817/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2433616667,
+                    49.27735
+                ]
+            },
+            "properties": {
+                "common_name": "Orange Jelly Spot",
+                "scientific_name": "Dacrymyces chrysospermus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869797/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2432216667,
+                    49.27668
+                ]
+            },
+            "properties": {
+                "common_name": "crimped gill",
+                "scientific_name": "Plicatura crispa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869776/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2433866667,
+                    49.277755
+                ]
+            },
+            "properties": {
+                "common_name": "Cherry laurel",
+                "scientific_name": "Prunus laurocerasus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869718/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2433033333,
+                    49.27792
+                ]
+            },
+            "properties": {
+                "common_name": "Beetles",
+                "scientific_name": "Coleoptera",
+                "proposed_name": "Beetles",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869679/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.243325,
+                    49.2780116667
+                ]
+            },
+            "properties": {
+                "common_name": "licorice fern",
+                "scientific_name": "Polypodium glycyrrhiza",
+                "proposed_name": "licorice fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869637/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.24327,
+                    49.2781616667
+                ]
+            },
+            "properties": {
+                "common_name": "arborvitaes",
+                "scientific_name": "Thuja",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869613/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2437533333,
+                    49.2788866667
+                ]
+            },
+            "properties": {
+                "common_name": "tree mat homalothecium moss",
+                "scientific_name": "Homalothecium fulgescens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869598/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.243475,
+                    49.2789033333
+                ]
+            },
+            "properties": {
+                "common_name": "crowded parchment",
+                "scientific_name": "Stereum complicatum",
+                "proposed_name": "crowded parchment",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869569/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2383026749,
+                    49.2800906573
+                ]
+            },
+            "properties": {
+                "common_name": "Cherry laurel",
+                "scientific_name": "Prunus laurocerasus",
+                "proposed_name": "Cherry laurel",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869554/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2376738139,
+                    49.2784470058
+                ]
+            },
+            "properties": {
+                "common_name": "European holly",
+                "scientific_name": "Ilex aquifolium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869531/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2388425229,
+                    49.2800085462
+                ]
+            },
+            "properties": {
+                "common_name": "shelf fungi",
+                "scientific_name": "Polyporales",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466869510/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2409903083,
+                    49.2794898232
+                ]
+            },
+            "properties": {
+                "common_name": "arborvitaes",
+                "scientific_name": "Thuja",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466865522/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}
