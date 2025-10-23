@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2234216667,
+                    43.652045
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998747/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2233783333,
+                    43.6521616667
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998687/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.223075,
+                    43.6525033333
+                ]
+            },
+            "properties": {
+                "common_name": "woollypod milkvetch",
+                "scientific_name": "Astragalus purshii",
+                "proposed_name": "woollypod milkvetch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998654/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2230033333,
+                    43.6527583333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Xanthorioideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998617/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2230033333,
+                    43.6527583333
+                ]
+            },
+            "properties": {
+                "common_name": "Biscuitroots",
+                "scientific_name": "Lomatium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998524/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2199716667,
+                    43.6520166667
+                ]
+            },
+            "properties": {
+                "common_name": "Blue Mountain Buckwheat",
+                "scientific_name": "Eriogonum strictum",
+                "proposed_name": "Blue Mountain Buckwheat",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998474/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2,
+                    43.6513583333
+                ]
+            },
+            "properties": {
+                "common_name": "arrowleaf balsamroot",
+                "scientific_name": "Balsamorhiza sagittata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998401/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1469394477,
+                    43.5971853938
+                ]
+            },
+            "properties": {
+                "common_name": "arrowleaf balsamroot",
+                "scientific_name": "Balsamorhiza sagittata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998374/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.217145,
+                    43.6532666667
+                ]
+            },
+            "properties": {
+                "common_name": "arrowleaf balsamroot",
+                "scientific_name": "Balsamorhiza sagittata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998220/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.217145,
+                    43.6532666667
+                ]
+            },
+            "properties": {
+                "common_name": "arrowleaf balsamroot",
+                "scientific_name": "Balsamorhiza sagittata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998143/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2166666667,
+                    43.65143
+                ]
+            },
+            "properties": {
+                "common_name": "Biscuitroots",
+                "scientific_name": "Lomatium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484998096/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

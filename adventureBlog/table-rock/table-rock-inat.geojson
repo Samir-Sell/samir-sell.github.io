@@ -1,0 +1,311 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1615278333,
+                    43.60357
+                ]
+            },
+            "properties": {
+                "common_name": "Karoo Gold",
+                "scientific_name": "Rhigozum obovatum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485103383/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1555888333,
+                    43.6025033333
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": "Big Sagebrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485103355/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1564195,
+                    43.6014366667
+                ]
+            },
+            "properties": {
+                "common_name": "Black-billed Magpie",
+                "scientific_name": "Pica hudsonia",
+                "proposed_name": "Black-billed Magpie",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484999132/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1537195,
+                    43.597825
+                ]
+            },
+            "properties": {
+                "common_name": "Bees",
+                "scientific_name": "Anthophila",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484999079/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1614945,
+                    43.603555
+                ]
+            },
+            "properties": {
+                "common_name": "Barberries",
+                "scientific_name": "Berberis",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997926/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1556083333,
+                    43.60252
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Pooideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997873/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1584721667,
+                    43.60387
+                ]
+            },
+            "properties": {
+                "common_name": "Dog-rose",
+                "scientific_name": "Rosa canina",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997839/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1537445,
+                    43.59783
+                ]
+            },
+            "properties": {
+                "common_name": "arrowleaf balsamroot",
+                "scientific_name": "Balsamorhiza sagittata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997568/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1497805,
+                    43.5985333333
+                ]
+            },
+            "properties": {
+                "common_name": "phloxes",
+                "scientific_name": "Phlox",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997220/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1430861667,
+                    43.59617
+                ]
+            },
+            "properties": {
+                "common_name": "golden currant",
+                "scientific_name": "Ribes aureum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997199/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1405471667,
+                    43.5937133333
+                ]
+            },
+            "properties": {
+                "common_name": "Common Raven",
+                "scientific_name": "Corvus corax",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997114/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1430805,
+                    43.59617
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484997052/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1463555,
+                    43.593045
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996971/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1488695,
+                    43.5967633333
+                ]
+            },
+            "properties": {
+                "common_name": "yarrows",
+                "scientific_name": "Achillea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996900/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.167145,
+                    43.6067366667
+                ]
+            },
+            "properties": {
+                "common_name": "pungent desert parsley",
+                "scientific_name": "Lomatium papilioniferum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996791/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1671033333,
+                    43.6067533333
+                ]
+            },
+            "properties": {
+                "common_name": "Biscuitroots",
+                "scientific_name": "Lomatium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996671/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1670883333,
+                    43.6067966667
+                ]
+            },
+            "properties": {
+                "common_name": "Western Fence Lizard",
+                "scientific_name": "Sceloporus occidentalis",
+                "proposed_name": "Western Fence Lizard",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996581/large.jpg",
+                "taxon_class": "Reptilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1655611667,
+                    43.6064366667
+                ]
+            },
+            "properties": {
+                "common_name": "Grimmia Dry Rock Moss",
+                "scientific_name": "Grimmia laevigata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484996358/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

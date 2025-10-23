@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.862975,
+                    41.421855
+                ]
+            },
+            "properties": {
+                "common_name": "eastern redcedar",
+                "scientific_name": "Juniperus virginiana",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488283342/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.860625,
+                    41.4185966667
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488107058/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.86198,
+                    41.4158033333
+                ]
+            },
+            "properties": {
+                "common_name": "narrowleaf puccoon",
+                "scientific_name": "Lithospermum incisum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106990/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8638033333,
+                    41.4181283333
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106937/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8659283333,
+                    41.4178383333
+                ]
+            },
+            "properties": {
+                "common_name": "poison ivies and oaks",
+                "scientific_name": "Toxicodendron",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106801/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8660633333,
+                    41.4178383333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Trametes",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106701/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.86663,
+                    41.4174966667
+                ]
+            },
+            "properties": {
+                "common_name": "American Robin",
+                "scientific_name": "Turdus migratorius",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106635/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8666833333,
+                    41.41657
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106559/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.866605,
+                    41.4165466667
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106510/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8667883333,
+                    41.41603
+                ]
+            },
+            "properties": {
+                "common_name": "elders",
+                "scientific_name": "Sambucus",
+                "proposed_name": "elders",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488106041/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8593383333,
+                    41.4181716667
+                ]
+            },
+            "properties": {
+                "common_name": "cashews, sumacs, and allies",
+                "scientific_name": "Anacardioideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105964/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.859275,
+                    41.418095
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105883/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8647716667,
+                    41.4141633333
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105840/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8653966667,
+                    41.414175
+                ]
+            },
+            "properties": {
+                "common_name": "bloodroot",
+                "scientific_name": "Sanguinaria canadensis",
+                "proposed_name": "bloodroot",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105737/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8671716667,
+                    41.4143333333
+                ]
+            },
+            "properties": {
+                "common_name": "violets",
+                "scientific_name": "Viola",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105689/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8673966667,
+                    41.4140833333
+                ]
+            },
+            "properties": {
+                "common_name": "fusca-group Field Ants and Allies",
+                "scientific_name": "Formica fusca",
+                "proposed_name": "fusca-group Field Ants and Allies",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105662/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8677133333,
+                    41.4132916667
+                ]
+            },
+            "properties": {
+                "common_name": "Virginia waterleaf",
+                "scientific_name": "Hydrophyllum virginianum",
+                "proposed_name": "Virginia waterleaf",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105619/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8678283333,
+                    41.413245
+                ]
+            },
+            "properties": {
+                "common_name": "Kentucky coffeetree",
+                "scientific_name": "Gymnocladus dioicus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105577/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.867675,
+                    41.4138583333
+                ]
+            },
+            "properties": {
+                "common_name": "common hackberry",
+                "scientific_name": "Celtis occidentalis",
+                "proposed_name": "common hackberry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105422/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.867795,
+                    41.4153133333
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105346/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8682716667,
+                    41.4152366667
+                ]
+            },
+            "properties": {
+                "common_name": "Carolina horsenettle",
+                "scientific_name": "Solanum carolinense",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105257/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8688466667,
+                    41.4149033333
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105218/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.869345,
+                    41.413775
+                ]
+            },
+            "properties": {
+                "common_name": "Northern Cardinal",
+                "scientific_name": "Cardinalis cardinalis",
+                "proposed_name": "Northern Cardinal",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105136/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8607416667,
+                    41.407555
+                ]
+            },
+            "properties": {
+                "common_name": "Turkey Vulture",
+                "scientific_name": "Cathartes aura",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488105078/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8583366667,
+                    41.4134333333
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112638/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.862,
+                    41.4157966667
+                ]
+            },
+            "properties": {
+                "common_name": "narrowleaf puccoon",
+                "scientific_name": "Lithospermum incisum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112585/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8621366667,
+                    41.4162916667
+                ]
+            },
+            "properties": {
+                "common_name": "Kentucky coffeetree",
+                "scientific_name": "Gymnocladus dioicus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112501/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.862175,
+                    41.41703
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112223/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8593966667,
+                    41.4182333333
+                ]
+            },
+            "properties": {
+                "common_name": "dicots",
+                "scientific_name": "Magnoliopsida",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112172/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8607716667,
+                    41.4075916667
+                ]
+            },
+            "properties": {
+                "common_name": "Turkey Vulture",
+                "scientific_name": "Cathartes aura",
+                "proposed_name": "Turkey Vulture",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488112052/large.jpg",
+                "taxon_class": "Aves"
+            }
+        }
+    ]
+}

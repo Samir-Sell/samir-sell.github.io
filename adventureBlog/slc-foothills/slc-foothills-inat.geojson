@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0462221667,
+                    40.4827116667
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Asteroideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485902803/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0482695,
+                    40.4834133333
+                ]
+            },
+            "properties": {
+                "common_name": "Birds",
+                "scientific_name": "Aves",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737668/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0476195,
+                    40.4838616667
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Selineae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737525/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0456778333,
+                    40.4838616667
+                ]
+            },
+            "properties": {
+                "common_name": "Birds",
+                "scientific_name": "Aves",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737435/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0434583333,
+                    40.48482
+                ]
+            },
+            "properties": {
+                "common_name": "asters and allies",
+                "scientific_name": "Astereae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737384/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.041575,
+                    40.4834333333
+                ]
+            },
+            "properties": {
+                "common_name": "Common Sagebrush Lizard",
+                "scientific_name": "Sceloporus graciosus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737342/large.jpg",
+                "taxon_class": "Reptilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0416305,
+                    40.4846866667
+                ]
+            },
+            "properties": {
+                "common_name": "Chukar",
+                "scientific_name": "Alectoris chukar",
+                "proposed_name": "Chukar",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737290/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0440611667,
+                    40.4846133333
+                ]
+            },
+            "properties": {
+                "common_name": "Longstalk Springparsley",
+                "scientific_name": "Cymopterus longipes",
+                "proposed_name": "Longstalk Springparsley",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737236/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0454388333,
+                    40.4840216667
+                ]
+            },
+            "properties": {
+                "common_name": "wormwoods and sagebrushes",
+                "scientific_name": "Artemisia",
+                "proposed_name": "wormwoods and sagebrushes",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737168/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0454388333,
+                    40.4840033333
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": "Big Sagebrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737066/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0458221667,
+                    40.48355
+                ]
+            },
+            "properties": {
+                "common_name": "Domestic Horse",
+                "scientific_name": "Equus caballus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485737029/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0462221667,
+                    40.4827116667
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": "Big Sagebrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485736991/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0476388333,
+                    40.4831466667
+                ]
+            },
+            "properties": {
+                "common_name": "Big Sagebrush",
+                "scientific_name": "Artemisia tridentata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485736090/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

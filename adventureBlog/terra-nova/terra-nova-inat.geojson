@@ -1,0 +1,906 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1972716667,
+                    49.172525
+                ]
+            },
+            "properties": {
+                "common_name": "Hooded Rosette Lichen",
+                "scientific_name": "Physcia adscendens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470651016/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1974633333,
+                    49.1735866667
+                ]
+            },
+            "properties": {
+                "common_name": "Great Blue Heron",
+                "scientific_name": "Ardea herodias",
+                "proposed_name": "Great Blue Heron",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470650999/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1973716667,
+                    49.1717116667
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470650900/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1973916667,
+                    49.17172
+                ]
+            },
+            "properties": {
+                "common_name": "Spotted Towhee",
+                "scientific_name": "Pipilo maculatus",
+                "proposed_name": "Spotted Towhee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470650875/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1972833333,
+                    49.17178
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470650964/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1973583333,
+                    49.1717383333
+                ]
+            },
+            "properties": {
+                "common_name": "Rose Spirea",
+                "scientific_name": "Spiraea douglasii",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470649559/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1987,
+                    49.1696616667
+                ]
+            },
+            "properties": {
+                "common_name": "Mallard",
+                "scientific_name": "Anas platyrhynchos",
+                "proposed_name": "Mallard",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470649552/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1986283333,
+                    49.1695866667
+                ]
+            },
+            "properties": {
+                "common_name": "Bleeding Oak Crust",
+                "scientific_name": "Stereum gausapatum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470649535/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.19763,
+                    49.1696033333
+                ]
+            },
+            "properties": {
+                "common_name": "Bald Eagle",
+                "scientific_name": "Haliaeetus leucocephalus",
+                "proposed_name": "Bald Eagle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470649524/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1964883333,
+                    49.16732
+                ]
+            },
+            "properties": {
+                "common_name": "Green-winged Teal",
+                "scientific_name": "Anas crecca",
+                "proposed_name": "Green-winged Teal",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647921/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1939633333,
+                    49.1657971667
+                ]
+            },
+            "properties": {
+                "common_name": "Brown Creeper",
+                "scientific_name": "Certhia americana",
+                "proposed_name": "Brown Creeper",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647908/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.19267,
+                    49.16728
+                ]
+            },
+            "properties": {
+                "common_name": "House Finch",
+                "scientific_name": "Haemorhous mexicanus",
+                "proposed_name": "House Finch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647880/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1922616667,
+                    49.1694783333
+                ]
+            },
+            "properties": {
+                "common_name": "cypress family",
+                "scientific_name": "Cupressaceae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647868/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1924216667,
+                    49.1697866667
+                ]
+            },
+            "properties": {
+                "common_name": "Anna's Hummingbird",
+                "scientific_name": "Calypte anna",
+                "proposed_name": "Anna's Hummingbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647851/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1946383333,
+                    49.1699533333
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647841/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1958116667,
+                    49.1698833333
+                ]
+            },
+            "properties": {
+                "common_name": "Spotted Towhee",
+                "scientific_name": "Pipilo maculatus",
+                "proposed_name": "Spotted Towhee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647823/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.194675,
+                    49.16982
+                ]
+            },
+            "properties": {
+                "common_name": "Black-capped Chickadee",
+                "scientific_name": "Poecile atricapillus",
+                "proposed_name": "Black-capped Chickadee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647810/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.196295,
+                    49.17042
+                ]
+            },
+            "properties": {
+                "common_name": "black knot",
+                "scientific_name": "Apiosporina morbosa",
+                "proposed_name": "black knot",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647795/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1973116667,
+                    49.1729283333
+                ]
+            },
+            "properties": {
+                "common_name": "Western Hardwood Sulphur Shelf",
+                "scientific_name": "Laetiporus gilbertsonii",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647761/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1980866667,
+                    49.17497
+                ]
+            },
+            "properties": {
+                "common_name": "Velvet Foot",
+                "scientific_name": "Flammulina velutipes",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470647750/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Poplar Budgall Mite",
+                "scientific_name": "Aceria parapopuli",
+                "proposed_name": "Poplar Budgall Mite",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805632/large.jpeg",
+                "taxon_class": "Arachnida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805622/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Spotted Towhee",
+                "scientific_name": "Pipilo maculatus",
+                "proposed_name": "Spotted Towhee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805616/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Anna's Hummingbird",
+                "scientific_name": "Calypte anna",
+                "proposed_name": "Anna's Hummingbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805609/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "House Finch",
+                "scientific_name": "Haemorhous mexicanus",
+                "proposed_name": "House Finch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805590/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Anna's Hummingbird",
+                "scientific_name": "Calypte anna",
+                "proposed_name": "Anna's Hummingbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805559/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "American Robin",
+                "scientific_name": "Turdus migratorius",
+                "proposed_name": "American Robin",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805575/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Brown-eyed Sunshine Lichen",
+                "scientific_name": "Vulpicida canadensis",
+                "proposed_name": "Brown-eyed Sunshine Lichen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805564/large.jpeg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Hooded Rosette Lichen",
+                "scientific_name": "Physcia adscendens",
+                "proposed_name": "Hooded Rosette Lichen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805551/large.jpeg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "American Goldfinch",
+                "scientific_name": "Spinus tristis",
+                "proposed_name": "American Goldfinch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805538/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "American Goldfinch",
+                "scientific_name": "Spinus tristis",
+                "proposed_name": "American Goldfinch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805526/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Bald Eagle",
+                "scientific_name": "Haliaeetus leucocephalus",
+                "proposed_name": "Bald Eagle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805513/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Mallard",
+                "scientific_name": "Anas platyrhynchos",
+                "proposed_name": "Mallard",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805505/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Birds",
+                "scientific_name": "Aves",
+                "proposed_name": "Birds",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805490/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "wolf lichen",
+                "scientific_name": "Letharia vulpina",
+                "proposed_name": "Wolf Lichen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805488/large.jpeg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Oakmoss",
+                "scientific_name": "Evernia prunastri",
+                "proposed_name": "Oakmoss",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805461/large.jpeg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805458/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805428/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805430/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805400/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805378/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805350/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805324/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805317/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805302/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805289/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805259/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805272/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805247/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1989750771,
+                    49.1722610579
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470805232/large.jpeg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1972583333,
+                    49.1717616667
+                ]
+            },
+            "properties": {
+                "common_name": "Mallard",
+                "scientific_name": "Anas platyrhynchos",
+                "proposed_name": "Mallard",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470644849/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1974033333,
+                    49.17175
+                ]
+            },
+            "properties": {
+                "common_name": "Spotted Towhee",
+                "scientific_name": "Pipilo maculatus",
+                "proposed_name": "Spotted Towhee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470644769/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1973883333,
+                    49.171745
+                ]
+            },
+            "properties": {
+                "common_name": "Golden-crowned Sparrow",
+                "scientific_name": "Zonotrichia atricapilla",
+                "proposed_name": "Golden-crowned Sparrow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470644712/large.jpg",
+                "taxon_class": "Aves"
+            }
+        }
+    ]
+}
