@@ -1,0 +1,430 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20285,
+                    49.2474716667
+                ]
+            },
+            "properties": {
+                "common_name": "Rosy Conk",
+                "scientific_name": "Fomitopsis cajanderi",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471300135/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2025833333,
+                    49.244345
+                ]
+            },
+            "properties": {
+                "common_name": "Northern Red Belt",
+                "scientific_name": "Fomitopsis mounceae",
+                "proposed_name": "Northern Red Belt",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471300123/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20112,
+                    49.2415833333
+                ]
+            },
+            "properties": {
+                "common_name": "hairy curtain crust",
+                "scientific_name": "Stereum hirsutum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299882/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2011716667,
+                    49.2418633333
+                ]
+            },
+            "properties": {
+                "common_name": "hairy curtain crust",
+                "scientific_name": "Stereum hirsutum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299861/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20233,
+                    49.2416383333
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299840/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2021416667,
+                    49.24138
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299822/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20212,
+                    49.2414283333
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299799/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2046283333,
+                    49.2402383333
+                ]
+            },
+            "properties": {
+                "common_name": "woolly bird's nest fungus",
+                "scientific_name": "Nidula niveotomentosa",
+                "proposed_name": "woolly bird's nest fungus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299780/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2049,
+                    49.2402083333
+                ]
+            },
+            "properties": {
+                "common_name": "woolly bird's nest fungus",
+                "scientific_name": "Nidula niveotomentosa",
+                "proposed_name": "woolly bird's nest fungus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299764/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20398,
+                    49.2376533333
+                ]
+            },
+            "properties": {
+                "common_name": "Rosy Oysterling",
+                "scientific_name": "Scytinotus longinquus",
+                "proposed_name": "Rosy Oysterling",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299740/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2042466667,
+                    49.2376716667
+                ]
+            },
+            "properties": {
+                "common_name": "Rosy Oysterling",
+                "scientific_name": "Scytinotus longinquus",
+                "proposed_name": "Rosy Oysterling",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299721/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2128133333,
+                    49.2442583333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Fomitopsis",
+                "proposed_name": "Fomitopsis",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299704/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2130283333,
+                    49.24498
+                ]
+            },
+            "properties": {
+                "common_name": "Cat's Tail Moss",
+                "scientific_name": "Pseudisothecium stoloniferum",
+                "proposed_name": "Cat's Tail Moss",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299681/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2042466667,
+                    49.2376716667
+                ]
+            },
+            "properties": {
+                "common_name": "Smoky-gilled Hypholoma",
+                "scientific_name": "Hypholoma capnoides",
+                "proposed_name": "Smoky-gilled Hypholoma",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299665/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.212495,
+                    49.2464966667
+                ]
+            },
+            "properties": {
+                "common_name": "Orange-banded Arion",
+                "scientific_name": "Arion fasciatus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299632/large.jpg",
+                "taxon_class": "Mollusca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2155666667,
+                    49.2491466667
+                ]
+            },
+            "properties": {
+                "common_name": "hairy curtain crust",
+                "scientific_name": "Stereum hirsutum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299610/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2190383333,
+                    49.2516133333
+                ]
+            },
+            "properties": {
+                "common_name": "woolly bird's nest fungus",
+                "scientific_name": "Nidula niveotomentosa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299586/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2158916667,
+                    49.2557283333
+                ]
+            },
+            "properties": {
+                "common_name": "Northern Red Belt",
+                "scientific_name": "Fomitopsis mounceae",
+                "proposed_name": "Northern Red Belt",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299566/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2157166667,
+                    49.255995
+                ]
+            },
+            "properties": {
+                "common_name": "Northern Red Belt",
+                "scientific_name": "Fomitopsis mounceae",
+                "proposed_name": "Northern Red Belt",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299550/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2115833333,
+                    49.2576883333
+                ]
+            },
+            "properties": {
+                "common_name": "Whitewash Lichen",
+                "scientific_name": "Phlyctis argena",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299531/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20877,
+                    49.2567716667
+                ]
+            },
+            "properties": {
+                "common_name": "Snow-White Crust",
+                "scientific_name": "Plicatura nivea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299518/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20627,
+                    49.2535583333
+                ]
+            },
+            "properties": {
+                "common_name": "Spotted Towhee",
+                "scientific_name": "Pipilo maculatus",
+                "proposed_name": "Spotted Towhee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471299502/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2289477,
+                    49.25738295
+                ]
+            },
+            "properties": {
+                "common_name": "Orange-banded Arion",
+                "scientific_name": "Arion fasciatus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471296663/large.jpg",
+                "taxon_class": "Mollusca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2157133333,
+                    49.2492833333
+                ]
+            },
+            "properties": {
+                "common_name": "hairy curtain crust",
+                "scientific_name": "Stereum hirsutum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471285833/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21135,
+                    49.257795
+                ]
+            },
+            "properties": {
+                "common_name": "Whitewash Lichen",
+                "scientific_name": "Phlyctis argena",
+                "proposed_name": "Whitewash Lichen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471285774/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        }
+    ]
+}

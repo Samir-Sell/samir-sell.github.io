@@ -1,0 +1,804 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5306033333,
+                    41.9681133333
+                ]
+            },
+            "properties": {
+                "common_name": "yellow pond-lilies",
+                "scientific_name": "Nuphar",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489492020/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5089883333,
+                    41.9092333333
+                ]
+            },
+            "properties": {
+                "common_name": "Sharp Hornsnail",
+                "scientific_name": "Pleurocera acuta",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489491920/large.jpg",
+                "taxon_class": "Mollusca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5293866667,
+                    41.968475
+                ]
+            },
+            "properties": {
+                "common_name": "Painted Turtle",
+                "scientific_name": "Chrysemys picta",
+                "proposed_name": "Painted Turtle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489491989/large.jpg",
+                "taxon_class": "Reptilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.52865,
+                    41.9685283333
+                ]
+            },
+            "properties": {
+                "common_name": "Canada Goose",
+                "scientific_name": "Branta canadensis",
+                "proposed_name": "Canada Goose",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489491961/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5272166667,
+                    41.969345
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489447694/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.52705,
+                    41.9697466667
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489447633/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.52717,
+                    41.9705616667
+                ]
+            },
+            "properties": {
+                "common_name": "Mute Swan",
+                "scientific_name": "Cygnus olor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489447557/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5288833333,
+                    41.9707583333
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489447514/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5298716667,
+                    41.96995
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489447438/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5305366667,
+                    41.9691116667
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446994/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.53102,
+                    41.96843
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446925/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5135083333,
+                    41.9313883333
+                ]
+            },
+            "properties": {
+                "common_name": "Common Grackle",
+                "scientific_name": "Quiscalus quiscula",
+                "proposed_name": "Common Grackle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446859/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.51268,
+                    41.9301783333
+                ]
+            },
+            "properties": {
+                "common_name": "Siberian squill",
+                "scientific_name": "Scilla siberica",
+                "proposed_name": "Siberian squill",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446262/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5126416667,
+                    41.9300633333
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446184/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5127166667,
+                    41.9293533333
+                ]
+            },
+            "properties": {
+                "common_name": "mayapple",
+                "scientific_name": "Podophyllum peltatum",
+                "proposed_name": "mayapple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446095/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5126883333,
+                    41.92843
+                ]
+            },
+            "properties": {
+                "common_name": "creeping feather-moss",
+                "scientific_name": "Amblystegium serpens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489446038/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.512605,
+                    41.9284883333
+                ]
+            },
+            "properties": {
+                "common_name": "Beautiful Branch Moss",
+                "scientific_name": "Callicladium haldaneanum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445988/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5123716667,
+                    41.92783
+                ]
+            },
+            "properties": {
+                "common_name": "Downy Woodpecker",
+                "scientific_name": "Dryobates pubescens",
+                "proposed_name": "Downy Woodpecker",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445959/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5118166667,
+                    41.922995
+                ]
+            },
+            "properties": {
+                "common_name": "eastern poison ivy",
+                "scientific_name": "Toxicodendron radicans",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445892/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5102216667,
+                    41.917145
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445787/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5104216667,
+                    41.9137366667
+                ]
+            },
+            "properties": {
+                "common_name": "eastern redcedar",
+                "scientific_name": "Juniperus virginiana",
+                "proposed_name": "eastern redcedar",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445605/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5103866667,
+                    41.9137
+                ]
+            },
+            "properties": {
+                "common_name": "eastern redcedar",
+                "scientific_name": "Juniperus virginiana",
+                "proposed_name": "eastern redcedar",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445511/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5095033333,
+                    41.91217
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445314/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5092533333,
+                    41.911905
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Ganoderma megaloma",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445173/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5092533333,
+                    41.911905
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Ganoderma megaloma",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489445113/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5091616667,
+                    41.9102366667
+                ]
+            },
+            "properties": {
+                "common_name": "Freshwater Drum",
+                "scientific_name": "Aplodinotus grunniens",
+                "proposed_name": "Freshwater Drum",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489444663/large.jpg",
+                "taxon_class": "Actinopterygii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5089783333,
+                    41.9092283333
+                ]
+            },
+            "properties": {
+                "common_name": "Ring-billed Gull",
+                "scientific_name": "Larus delawarensis",
+                "proposed_name": "Ring-billed Gull",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489444598/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.509055,
+                    41.9112533333
+                ]
+            },
+            "properties": {
+                "common_name": "Asian Lady Beetle",
+                "scientific_name": "Harmonia axyridis",
+                "proposed_name": "Asian Lady Beetle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489444515/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.509055,
+                    41.9113166667
+                ]
+            },
+            "properties": {
+                "common_name": "Candleflame Lichen",
+                "scientific_name": "Candelaria concolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489444438/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5090866667,
+                    41.911295
+                ]
+            },
+            "properties": {
+                "common_name": "Asian Lady Beetle",
+                "scientific_name": "Harmonia axyridis",
+                "proposed_name": "Asian Lady Beetle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489444357/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5288466667,
+                    41.970795
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557574/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.015,
+                    42.0234221667
+                ]
+            },
+            "properties": {
+                "common_name": "Turtles and Tortoises",
+                "scientific_name": "Testudines",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557542/large.jpg",
+                "taxon_class": "Reptilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5286033333,
+                    41.9685133333
+                ]
+            },
+            "properties": {
+                "common_name": "Canada Goose",
+                "scientific_name": "Branta canadensis",
+                "proposed_name": "Canada Goose",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557439/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5269866667,
+                    41.9697533333
+                ]
+            },
+            "properties": {
+                "common_name": "Aroids, Water-Plantains, Seagrass, and allies",
+                "scientific_name": "Alismatales",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557404/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5273883333,
+                    41.9708216667
+                ]
+            },
+            "properties": {
+                "common_name": "Mute Swan",
+                "scientific_name": "Cygnus olor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557350/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.52993,
+                    41.9699466667
+                ]
+            },
+            "properties": {
+                "common_name": "Cattails",
+                "scientific_name": "Typha",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557161/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5127033333,
+                    41.9299966667
+                ]
+            },
+            "properties": {
+                "common_name": "Siberian squill",
+                "scientific_name": "Scilla siberica",
+                "proposed_name": "Siberian squill",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557108/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5126716667,
+                    41.9301116667
+                ]
+            },
+            "properties": {
+                "common_name": "Dutchman's breeches",
+                "scientific_name": "Dicentra cucullaria",
+                "proposed_name": "Dutchman's breeches",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557069/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5126633333,
+                    41.9300633333
+                ]
+            },
+            "properties": {
+                "common_name": "mayapple",
+                "scientific_name": "Podophyllum peltatum",
+                "proposed_name": "mayapple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489557019/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.51252,
+                    41.929425
+                ]
+            },
+            "properties": {
+                "common_name": "mayapple",
+                "scientific_name": "Podophyllum peltatum",
+                "proposed_name": "mayapple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556980/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.512895,
+                    41.928955
+                ]
+            },
+            "properties": {
+                "common_name": "northern spicebush",
+                "scientific_name": "Lindera benzoin",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556845/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5091383333,
+                    41.9102383333
+                ]
+            },
+            "properties": {
+                "common_name": "Freshwater Drum",
+                "scientific_name": "Aplodinotus grunniens",
+                "proposed_name": "Freshwater Drum",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556796/large.jpg",
+                "taxon_class": "Actinopterygii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5094833333,
+                    41.913975
+                ]
+            },
+            "properties": {
+                "common_name": "Barn Swallow",
+                "scientific_name": "Hirundo rustica",
+                "proposed_name": "Barn Swallow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556747/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5106883333,
+                    41.919455
+                ]
+            },
+            "properties": {
+                "common_name": "Turkey Vulture",
+                "scientific_name": "Cathartes aura",
+                "proposed_name": "Turkey Vulture",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556691/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.51127,
+                    41.9217416667
+                ]
+            },
+            "properties": {
+                "common_name": "Eastern Garter Snake",
+                "scientific_name": "Thamnophis sirtalis sirtalis",
+                "proposed_name": "Eastern Garter Snake",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556652/large.jpg",
+                "taxon_class": "Reptilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0182945,
+                    42.0244611667
+                ]
+            },
+            "properties": {
+                "common_name": "Channel Catfish",
+                "scientific_name": "Ictalurus punctatus",
+                "proposed_name": "Channel Catfish",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556607/large.jpg",
+                "taxon_class": "Actinopterygii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.01815,
+                    42.0244555
+                ]
+            },
+            "properties": {
+                "common_name": "American lotus",
+                "scientific_name": "Nelumbo lutea",
+                "proposed_name": "American lotus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489556571/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

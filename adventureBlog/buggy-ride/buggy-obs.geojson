@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.545655,
+                    18.7299633333
+                ]
+            },
+            "properties": {
+                "common_name": "Neem",
+                "scientific_name": "Azadirachta indica",
+                "proposed_name": "Neem",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474483053/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5466116667,
+                    18.7238133333
+                ]
+            },
+            "properties": {
+                "common_name": "mosses",
+                "scientific_name": "Bryophyta",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474483040/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.54662,
+                    18.7237633333
+                ]
+            },
+            "properties": {
+                "common_name": "Climbing fig",
+                "scientific_name": "Ficus pumila",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474483062/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.533455,
+                    18.7706
+                ]
+            },
+            "properties": {
+                "common_name": "guinea grass",
+                "scientific_name": "Megathyrsus maximus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481974/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5333616667,
+                    18.7712883333
+                ]
+            },
+            "properties": {
+                "common_name": "sea grape",
+                "scientific_name": "Coccoloba uvifera",
+                "proposed_name": "sea grape",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481967/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5332616667,
+                    18.772195
+                ]
+            },
+            "properties": {
+                "common_name": "Portia tree",
+                "scientific_name": "Thespesia populnea",
+                "proposed_name": "Portia tree",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481960/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.532,
+                    18.7729466667
+                ]
+            },
+            "properties": {
+                "common_name": "Domestic Dog",
+                "scientific_name": "Canis familiaris",
+                "proposed_name": "Domestic Dog",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481951/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5325133333,
+                    18.77253
+                ]
+            },
+            "properties": {
+                "common_name": "sea grape",
+                "scientific_name": "Coccoloba uvifera",
+                "proposed_name": "sea grape",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481694/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.53258,
+                    18.772525
+                ]
+            },
+            "properties": {
+                "common_name": "coconut palm",
+                "scientific_name": "Cocos nucifera",
+                "proposed_name": "coconut palm",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481687/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.54875,
+                    18.7428716667
+                ]
+            },
+            "properties": {
+                "common_name": "Moses-in-the-cradle",
+                "scientific_name": "Tradescantia spathacea",
+                "proposed_name": "Moses-in-the-cradle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481673/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.54872,
+                    18.7428383333
+                ]
+            },
+            "properties": {
+                "common_name": "Caribbean Paper Wasp",
+                "scientific_name": "Polistes crinitus",
+                "proposed_name": "Caribbean Paper Wasp",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474481662/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        }
+    ]
+}

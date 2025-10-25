@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.20672,
+                    44.2336583333
+                ]
+            },
+            "properties": {
+                "common_name": "The Scribbler",
+                "scientific_name": "Cladara atroliturata",
+                "proposed_name": "The Scribbler",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498383975/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2397783333,
+                    44.2507283333
+                ]
+            },
+            "properties": {
+                "common_name": "brocade moss",
+                "scientific_name": "Callicladium imponens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498388437/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2394616667,
+                    44.2515866667
+                ]
+            },
+            "properties": {
+                "common_name": "Black-capped Chickadee",
+                "scientific_name": "Poecile atricapillus",
+                "proposed_name": "Black-capped Chickadee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498382922/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2325383333,
+                    44.2483366667
+                ]
+            },
+            "properties": {
+                "common_name": "turkey-tail",
+                "scientific_name": "Trametes versicolor",
+                "proposed_name": "turkey-tail",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498382757/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2325383333,
+                    44.2483366667
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498382602/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.22993,
+                    44.247
+                ]
+            },
+            "properties": {
+                "common_name": "agrobacteria",
+                "scientific_name": "Agrobacterium",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498382277/large.jpg",
+                "taxon_class": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2182866667,
+                    44.2410033333
+                ]
+            },
+            "properties": {
+                "common_name": "partridgeberry",
+                "scientific_name": "Mitchella repens",
+                "proposed_name": "partridgeberry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381631/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2180033333,
+                    44.2410033333
+                ]
+            },
+            "properties": {
+                "common_name": "Eastern Chipmunk",
+                "scientific_name": "Tamias striatus",
+                "proposed_name": "Eastern Chipmunk",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381498/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2135783333,
+                    44.236055
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381393/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2135583333,
+                    44.2361533333
+                ]
+            },
+            "properties": {
+                "common_name": "Beechwood Woodwart",
+                "scientific_name": "Jackrogersella cohaerens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381283/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2027716667,
+                    44.234595
+                ]
+            },
+            "properties": {
+                "common_name": "White-striped Running Crab Spider",
+                "scientific_name": "Philodromus rufus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381173/large.jpg",
+                "taxon_class": "Arachnida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2027416667,
+                    44.234595
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Contacyphon",
+                "proposed_name": "Contacyphon",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498381099/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2029783333,
+                    44.2344783333
+                ]
+            },
+            "properties": {
+                "common_name": "Early Tachinid Fly",
+                "scientific_name": "Epalpus signifer",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498380987/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2030883333,
+                    44.234645
+                ]
+            },
+            "properties": {
+                "common_name": "balsam fir",
+                "scientific_name": "Abies balsamea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498380327/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.204445,
+                    44.2344466667
+                ]
+            },
+            "properties": {
+                "common_name": "shining firmoss",
+                "scientific_name": "Huperzia lucidula",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498379301/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2046783333,
+                    44.233945
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498379164/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2077116667,
+                    44.234205
+                ]
+            },
+            "properties": {
+                "common_name": "red spruce",
+                "scientific_name": "Picea rubens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378690/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.207645,
+                    44.2341533333
+                ]
+            },
+            "properties": {
+                "common_name": "balsam fir",
+                "scientific_name": "Abies balsamea",
+                "proposed_name": "balsam fir",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378564/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2091866667,
+                    44.2345133333
+                ]
+            },
+            "properties": {
+                "common_name": "northern whitecedar",
+                "scientific_name": "Thuja occidentalis",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378353/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2097283333,
+                    44.2347616667
+                ]
+            },
+            "properties": {
+                "common_name": "shingle moss",
+                "scientific_name": "Neckera pennata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378206/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.21372,
+                    44.2365033333
+                ]
+            },
+            "properties": {
+                "common_name": "Round-leaved Violet",
+                "scientific_name": "Viola rotundifolia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378140/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.21373,
+                    44.2365666667
+                ]
+            },
+            "properties": {
+                "common_name": "Fungi Including Lichens",
+                "scientific_name": "Fungi",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498378058/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2154366667,
+                    44.2398333333
+                ]
+            },
+            "properties": {
+                "common_name": "red spruce",
+                "scientific_name": "Picea rubens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377952/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2154366667,
+                    44.2398333333
+                ]
+            },
+            "properties": {
+                "common_name": "Christmas fern",
+                "scientific_name": "Polystichum acrostichoides",
+                "proposed_name": "Christmas fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377864/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2166633333,
+                    44.24052
+                ]
+            },
+            "properties": {
+                "common_name": "common lichens",
+                "scientific_name": "Lecanoromycetes",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377765/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2166633333,
+                    44.24052
+                ]
+            },
+            "properties": {
+                "common_name": "boulder broom moss",
+                "scientific_name": "Dicranum fulvum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377677/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2166633333,
+                    44.24052
+                ]
+            },
+            "properties": {
+                "common_name": "Thyme and Allied Mosses",
+                "scientific_name": "Plagiomnium",
+                "proposed_name": "Thyme and Allied Mosses",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377054/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.21837,
+                    44.2409
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Xeromphalina",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498377021/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2224833333,
+                    44.24247
+                ]
+            },
+            "properties": {
+                "common_name": "red trillium",
+                "scientific_name": "Trillium erectum",
+                "proposed_name": "red trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498376927/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.224905,
+                    44.2437833333
+                ]
+            },
+            "properties": {
+                "common_name": "Northern Red Belt",
+                "scientific_name": "Fomitopsis mounceae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498376868/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        }
+    ]
+}

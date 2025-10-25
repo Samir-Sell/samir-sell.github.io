@@ -1,0 +1,634 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.24685,
+                    41.1784966667
+                ]
+            },
+            "properties": {
+                "common_name": "prairie pasqueflower",
+                "scientific_name": "Pulsatilla nuttalliana",
+                "proposed_name": "prairie pasqueflower",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487323026/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.24783,
+                    41.17835
+                ]
+            },
+            "properties": {
+                "common_name": "Plains Pricklypear",
+                "scientific_name": "Opuntia polyacantha",
+                "proposed_name": "Plains Pricklypear",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322963/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.247945,
+                    41.176255
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322921/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2479116667,
+                    41.1782783333
+                ]
+            },
+            "properties": {
+                "common_name": "Plains Pricklypear",
+                "scientific_name": "Opuntia polyacantha",
+                "proposed_name": "Plains Pricklypear",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322897/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2501033333,
+                    41.1799383333
+                ]
+            },
+            "properties": {
+                "common_name": "Wyoming Ground Squirrel",
+                "scientific_name": "Urocitellus elegans",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322832/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2522716667,
+                    41.17937
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322525/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2525116667,
+                    41.1793133333
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322424/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.253445,
+                    41.17913
+                ]
+            },
+            "properties": {
+                "common_name": "quaking aspen",
+                "scientific_name": "Populus tremuloides",
+                "proposed_name": "trembling aspen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322127/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2547033333,
+                    41.1785083333
+                ]
+            },
+            "properties": {
+                "common_name": "fringed sagebrush",
+                "scientific_name": "Artemisia frigida",
+                "proposed_name": "fringed sagebrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487322051/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25477,
+                    41.1781133333
+                ]
+            },
+            "properties": {
+                "common_name": "Wyoming Ground Squirrel",
+                "scientific_name": "Urocitellus elegans",
+                "proposed_name": "Wyoming Ground Squirrel",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487317009/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.254795,
+                    41.1780166667
+                ]
+            },
+            "properties": {
+                "common_name": "sagebrush buttercup",
+                "scientific_name": "Ranunculus glaberrimus",
+                "proposed_name": "sagebrush buttercup",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316894/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2547783333,
+                    41.1779966667
+                ]
+            },
+            "properties": {
+                "common_name": "sagebrush buttercup",
+                "scientific_name": "Ranunculus glaberrimus",
+                "proposed_name": "sagebrush buttercup",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316840/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25473,
+                    41.1780216667
+                ]
+            },
+            "properties": {
+                "common_name": "Mountain Ball Cactus",
+                "scientific_name": "Pediocactus simpsonii",
+                "proposed_name": "Mountain Ball Cactus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316812/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2548466667,
+                    41.1771533333
+                ]
+            },
+            "properties": {
+                "common_name": "common juniper",
+                "scientific_name": "Juniperus communis",
+                "proposed_name": "common juniper",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316791/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25677,
+                    41.1747966667
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": "common mullein",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316744/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25837,
+                    41.1742416667
+                ]
+            },
+            "properties": {
+                "common_name": "creeping mahonia",
+                "scientific_name": "Berberis repens",
+                "proposed_name": "creeping mahonia",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316260/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2592083333,
+                    41.174075
+                ]
+            },
+            "properties": {
+                "common_name": "bearberry",
+                "scientific_name": "Arctostaphylos uva-ursi",
+                "proposed_name": "bearberry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316223/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.258495,
+                    41.1741883333
+                ]
+            },
+            "properties": {
+                "common_name": "Stygian Black-parmelia",
+                "scientific_name": "Melanelia stygia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316196/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2600083333,
+                    41.17415
+                ]
+            },
+            "properties": {
+                "common_name": "common juniper",
+                "scientific_name": "Juniperus communis",
+                "proposed_name": "common juniper",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316161/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2603033333,
+                    41.174345
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316053/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2556133333,
+                    41.1751883333
+                ]
+            },
+            "properties": {
+                "common_name": "Bald Eagle",
+                "scientific_name": "Haliaeetus leucocephalus",
+                "proposed_name": "Bald Eagle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316017/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25457,
+                    41.1764033333
+                ]
+            },
+            "properties": {
+                "common_name": "Blue Grama",
+                "scientific_name": "Bouteloua gracilis",
+                "proposed_name": "Blue Grama",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315962/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2480583333,
+                    41.1796883333
+                ]
+            },
+            "properties": {
+                "common_name": "cut-leaf fleabane",
+                "scientific_name": "Erigeron compositus",
+                "proposed_name": "cut-leaf fleabane",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315905/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2437133333,
+                    41.1869083333
+                ]
+            },
+            "properties": {
+                "common_name": "Mule Deer",
+                "scientific_name": "Odocoileus hemionus",
+                "proposed_name": "Mule Deer",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316976/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2478866667,
+                    41.1782
+                ]
+            },
+            "properties": {
+                "common_name": "Plains Pricklypear",
+                "scientific_name": "Opuntia polyacantha",
+                "proposed_name": "Plains Pricklypear",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316240/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2469866667,
+                    41.17868
+                ]
+            },
+            "properties": {
+                "common_name": "prairie pasqueflower",
+                "scientific_name": "Pulsatilla nuttalliana",
+                "proposed_name": "prairie pasqueflower",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316208/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25007,
+                    41.1799083333
+                ]
+            },
+            "properties": {
+                "common_name": "Wyoming Ground Squirrel",
+                "scientific_name": "Urocitellus elegans",
+                "proposed_name": "Wyoming Ground Squirrel",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316145/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2523116667,
+                    41.1792866667
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487316065/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.254805,
+                    41.1780166667
+                ]
+            },
+            "properties": {
+                "common_name": "sagebrush buttercup",
+                "scientific_name": "Ranunculus glaberrimus",
+                "proposed_name": "sagebrush buttercup",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315894/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2547133333,
+                    41.17805
+                ]
+            },
+            "properties": {
+                "common_name": "Mountain Ball Cactus",
+                "scientific_name": "Pediocactus simpsonii",
+                "proposed_name": "Mountain Ball Cactus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315840/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25473,
+                    41.1780383333
+                ]
+            },
+            "properties": {
+                "common_name": "fringed sagebrush",
+                "scientific_name": "Artemisia frigida",
+                "proposed_name": "fringed sagebrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315778/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2548616667,
+                    41.1779166667
+                ]
+            },
+            "properties": {
+                "common_name": "Miner's Candle",
+                "scientific_name": "Oreocarya virgata",
+                "proposed_name": "Miner's Candle",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315724/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2567883333,
+                    41.17482
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": "great mullein",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315672/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25833,
+                    41.1742466667
+                ]
+            },
+            "properties": {
+                "common_name": "creeping mahonia",
+                "scientific_name": "Berberis repens",
+                "proposed_name": "creeping mahonia",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315573/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2583916667,
+                    41.1742366667
+                ]
+            },
+            "properties": {
+                "common_name": "great mullein",
+                "scientific_name": "Verbascum thapsus",
+                "proposed_name": "great mullein",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315392/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2481166667,
+                    41.1796916667
+                ]
+            },
+            "properties": {
+                "common_name": "cut-leaf fleabane",
+                "scientific_name": "Erigeron compositus",
+                "proposed_name": "cut-leaf fleabane",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315321/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2479633333,
+                    41.179695
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountains Ponderosa Pine",
+                "scientific_name": "Pinus scopulorum",
+                "proposed_name": "Rocky Mountains Ponderosa Pine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487315214/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

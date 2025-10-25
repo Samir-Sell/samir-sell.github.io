@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.79362,
+                    40.5696466667
+                ]
+            },
+            "properties": {
+                "common_name": "chokecherry",
+                "scientific_name": "Prunus virginiana",
+                "proposed_name": "choke cherry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741519/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.79362,
+                    40.5696466667
+                ]
+            },
+            "properties": {
+                "common_name": "chokecherry",
+                "scientific_name": "Prunus virginiana",
+                "proposed_name": "choke cherry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741474/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.79605,
+                    40.5665216667
+                ]
+            },
+            "properties": {
+                "common_name": "plums, cherries, and allies",
+                "scientific_name": "Prunus",
+                "proposed_name": "plums, cherries, and allies",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741439/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.797755,
+                    40.5662833333
+                ]
+            },
+            "properties": {
+                "common_name": "Gambel Oak",
+                "scientific_name": "Quercus gambelii",
+                "proposed_name": "Gambel Oak",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741403/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7963083333,
+                    40.5640333333
+                ]
+            },
+            "properties": {
+                "common_name": "Oil Beetles",
+                "scientific_name": "Meloe",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741311/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.79488,
+                    40.5631966667
+                ]
+            },
+            "properties": {
+                "common_name": "Rubber Rabbitbrush",
+                "scientific_name": "Ericameria nauseosa",
+                "proposed_name": "Rubber Rabbitbrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741156/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.79488,
+                    40.5631966667
+                ]
+            },
+            "properties": {
+                "common_name": "Rubber Rabbitbrush",
+                "scientific_name": "Ericameria nauseosa",
+                "proposed_name": "Rubber Rabbitbrush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741118/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7936633333,
+                    40.56477
+                ]
+            },
+            "properties": {
+                "common_name": "quaking aspen",
+                "scientific_name": "Populus tremuloides",
+                "proposed_name": "trembling aspen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485741002/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7937083333,
+                    40.5645383333
+                ]
+            },
+            "properties": {
+                "common_name": "rough horsetail",
+                "scientific_name": "Equisetum hyemale",
+                "proposed_name": "rough horsetail",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740903/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7939216667,
+                    40.5661883333
+                ]
+            },
+            "properties": {
+                "common_name": "Plume Thistles",
+                "scientific_name": "Cirsium",
+                "proposed_name": "Plume Thistles",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740813/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7903883333,
+                    40.5654033333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Prosternini",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740569/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7897716667,
+                    40.565495
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Prosternini",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740540/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7898866667,
+                    40.5653883333
+                ]
+            },
+            "properties": {
+                "common_name": "creeping mahonia",
+                "scientific_name": "Berberis repens",
+                "proposed_name": "creeping mahonia",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740472/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.78748,
+                    40.5637533333
+                ]
+            },
+            "properties": {
+                "common_name": "Curlleaf Mountain Mahogany",
+                "scientific_name": "Cercocarpus ledifolius",
+                "proposed_name": "Curlleaf Mountain Mahogany",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740447/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.78888,
+                    40.565405
+                ]
+            },
+            "properties": {
+                "common_name": "Fernleaf Biscuitroot",
+                "scientific_name": "Lomatium dissectum",
+                "proposed_name": "Fernleaf Biscuitroot",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740416/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7808333814,
+                    40.561992349
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Grimmia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740353/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7788283333,
+                    40.561705
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Leptarctia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740325/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7786033333,
+                    40.561645
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Xanthorioideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740208/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7784,
+                    40.5616283333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Xanthorioideae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740188/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7764083333,
+                    40.5615383333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Orthotrichaceae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740153/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7764383333,
+                    40.5615716667
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Ulota",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740131/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7743783333,
+                    40.5618216667
+                ]
+            },
+            "properties": {
+                "common_name": "Douglas-fir",
+                "scientific_name": "Pseudotsuga menziesii",
+                "proposed_name": "Douglas-fir",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740100/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7742416667,
+                    40.5617466667
+                ]
+            },
+            "properties": {
+                "common_name": "white fir",
+                "scientific_name": "Abies concolor",
+                "proposed_name": "white fir",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740070/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7708966667,
+                    40.5613216667
+                ]
+            },
+            "properties": {
+                "common_name": "Rocky Mountain Juniper",
+                "scientific_name": "Juniperus scopulorum",
+                "proposed_name": "Rocky Mountain Juniper",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485740024/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.770875,
+                    40.5613366667
+                ]
+            },
+            "properties": {
+                "common_name": "junipers",
+                "scientific_name": "Juniperus",
+                "proposed_name": "junipers",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485739950/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7705916667,
+                    40.5608116667
+                ]
+            },
+            "properties": {
+                "common_name": "Oregon Boxwood",
+                "scientific_name": "Paxistima myrsinites",
+                "proposed_name": "Oregon Boxwood",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485739902/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.77308,
+                    40.56123
+                ]
+            },
+            "properties": {
+                "common_name": "creeping mahonia",
+                "scientific_name": "Berberis repens",
+                "proposed_name": "creeping mahonia",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485739300/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.773305,
+                    40.56145
+                ]
+            },
+            "properties": {
+                "common_name": "mosses",
+                "scientific_name": "Bryophyta",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485739238/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7768116667,
+                    40.5614383333
+                ]
+            },
+            "properties": {
+                "common_name": "Lyell's Bristle-moss",
+                "scientific_name": "Pulvigera lyellii",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485738829/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.77768,
+                    40.5614366667
+                ]
+            },
+            "properties": {
+                "common_name": "Oregon Boxwood",
+                "scientific_name": "Paxistima myrsinites",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485738774/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5285866667,
+                    44.1004971667
+                ]
+            },
+            "properties": {
+                "common_name": "Gilled Polypore",
+                "scientific_name": "Trametes betulina",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498365469/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.528455,
+                    44.1004971667
+                ]
+            },
+            "properties": {
+                "common_name": "Mossy Maze Polypore",
+                "scientific_name": "Cerrena unicolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497823687/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5272583333,
+                    44.1003195
+                ]
+            },
+            "properties": {
+                "common_name": "Yellow-bellied Sapsucker",
+                "scientific_name": "Sphyrapicus varius",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497823059/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5278616667,
+                    44.1014333333
+                ]
+            },
+            "properties": {
+                "common_name": "red trillium",
+                "scientific_name": "Trillium erectum",
+                "proposed_name": "red trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497822993/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.523045,
+                    44.1015445
+                ]
+            },
+            "properties": {
+                "common_name": "Boreal Oakmoss",
+                "scientific_name": "Evernia mesomorpha",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497822851/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5236216667,
+                    44.10185
+                ]
+            },
+            "properties": {
+                "common_name": "Prairie Willow",
+                "scientific_name": "Salix humilis",
+                "proposed_name": "Prairie Willow",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497821825/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5239333333,
+                    44.1021638333
+                ]
+            },
+            "properties": {
+                "common_name": "red maple",
+                "scientific_name": "Acer rubrum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497821591/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5226383333,
+                    44.1010888333
+                ]
+            },
+            "properties": {
+                "common_name": "juniper haircap moss",
+                "scientific_name": "Polytrichum juniperinum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497821368/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5226383333,
+                    44.1010888333
+                ]
+            },
+            "properties": {
+                "common_name": "Shingled Rock Shield",
+                "scientific_name": "Xanthoparmelia stenophylla",
+                "proposed_name": "rock shield lichens",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497821200/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5225966667,
+                    44.1009945
+                ]
+            },
+            "properties": {
+                "common_name": "spruces",
+                "scientific_name": "Picea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497821150/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5225966667,
+                    44.1009945
+                ]
+            },
+            "properties": {
+                "common_name": "common greenshield lichen",
+                "scientific_name": "Flavoparmelia caperata",
+                "proposed_name": "common greenshield lichen",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497820983/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.522325,
+                    44.1006555
+                ]
+            },
+            "properties": {
+                "common_name": "yellow trout lily",
+                "scientific_name": "Erythronium americanum",
+                "proposed_name": "yellow trout lily",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497820905/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5218883333,
+                    44.1020361667
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497820826/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.522395,
+                    44.1035888333
+                ]
+            },
+            "properties": {
+                "common_name": "Beechwood Woodwart",
+                "scientific_name": "Jackrogersella cohaerens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497820762/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4894287631,
+                    44.1923323316
+                ]
+            },
+            "properties": {
+                "common_name": "Thyme and Allied Mosses",
+                "scientific_name": "Plagiomnium",
+                "proposed_name": "Thyme and Allied Mosses",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497820517/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5225216667,
+                    44.103575
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Mniaceae",
+                "proposed_name": "Mniaceae",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497819522/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5226466667,
+                    44.1036138333
+                ]
+            },
+            "properties": {
+                "common_name": "Rock Whitewash",
+                "scientific_name": "Phlyctis petraea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497819205/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5240966667,
+                    44.1041
+                ]
+            },
+            "properties": {
+                "common_name": "bracket fungi",
+                "scientific_name": "Polyporaceae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497819146/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5242216667,
+                    44.1041138333
+                ]
+            },
+            "properties": {
+                "common_name": "Round-leaved Violet",
+                "scientific_name": "Viola rotundifolia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497819000/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5242216667,
+                    44.1041138333
+                ]
+            },
+            "properties": {
+                "common_name": "Carolina Springbeauty",
+                "scientific_name": "Claytonia caroliniana",
+                "proposed_name": "Carolina Springbeauty",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818931/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.489428763,
+                    44.1923323324
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818855/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.525105,
+                    44.1042611667
+                ]
+            },
+            "properties": {
+                "common_name": "shining firmoss",
+                "scientific_name": "Huperzia lucidula",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818706/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5266216667,
+                    44.1040028333
+                ]
+            },
+            "properties": {
+                "common_name": "yellow trout lily",
+                "scientific_name": "Erythronium americanum",
+                "proposed_name": "yellow trout lily",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818565/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5268783333,
+                    44.1036778333
+                ]
+            },
+            "properties": {
+                "common_name": "yellow trout lily",
+                "scientific_name": "Erythronium americanum",
+                "proposed_name": "yellow trout lily",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818264/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5268783333,
+                    44.1036778333
+                ]
+            },
+            "properties": {
+                "common_name": "red spruce",
+                "scientific_name": "Picea rubens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497818164/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5268783333,
+                    44.1036778333
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Fomes",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497817977/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5277133333,
+                    44.1029138333
+                ]
+            },
+            "properties": {
+                "common_name": "violet-toothed polypore",
+                "scientific_name": "Trichaptum biforme",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497817221/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5277133333,
+                    44.1013221667
+                ]
+            },
+            "properties": {
+                "common_name": "hobblebush",
+                "scientific_name": "Viburnum lantanoides",
+                "proposed_name": "hobblebush",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497815801/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4894703199,
+                    44.1923157452
+                ]
+            },
+            "properties": {
+                "common_name": null,
+                "scientific_name": "Unknown",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497815475/large.jpg",
+                "taxon_class": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5273383333,
+                    44.1010528333
+                ]
+            },
+            "properties": {
+                "common_name": "painted trillium",
+                "scientific_name": "Trillium undulatum",
+                "proposed_name": "painted trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497815415/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}
