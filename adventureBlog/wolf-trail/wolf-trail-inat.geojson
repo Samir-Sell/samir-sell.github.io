@@ -1,0 +1,702 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9100966667,
+                    45.5430966667
+                ]
+            },
+            "properties": {
+                "common_name": "northern lady fern",
+                "scientific_name": "Athyrium angustum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510224918/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9098883333,
+                    45.5430866667
+                ]
+            },
+            "properties": {
+                "common_name": "red trillium",
+                "scientific_name": "Trillium erectum",
+                "proposed_name": "red trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510224665/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9097866667,
+                    45.543125
+                ]
+            },
+            "properties": {
+                "common_name": "large white trillium",
+                "scientific_name": "Trillium grandiflorum",
+                "proposed_name": "large white trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510224618/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9098883333,
+                    45.5430966667
+                ]
+            },
+            "properties": {
+                "common_name": "large white trillium",
+                "scientific_name": "Trillium grandiflorum",
+                "proposed_name": "large white trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510224064/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9103383333,
+                    45.5428966667
+                ]
+            },
+            "properties": {
+                "common_name": "meadow-rues",
+                "scientific_name": "Thalictrum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510224003/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9103633333,
+                    45.5428966667
+                ]
+            },
+            "properties": {
+                "common_name": "sugar maple",
+                "scientific_name": "Acer saccharum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223942/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9112166667,
+                    45.5426416667
+                ]
+            },
+            "properties": {
+                "common_name": "large white trillium",
+                "scientific_name": "Trillium grandiflorum",
+                "proposed_name": "large white trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223870/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9113416667,
+                    45.5426166667
+                ]
+            },
+            "properties": {
+                "common_name": "Smooth Yellow Violet",
+                "scientific_name": "Viola eriocarpa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223811/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.91143,
+                    45.5425866667
+                ]
+            },
+            "properties": {
+                "common_name": "violets",
+                "scientific_name": "Viola",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223691/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.911455,
+                    45.54257
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223591/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9118216667,
+                    45.5426216667
+                ]
+            },
+            "properties": {
+                "common_name": "joint-toothed mosses",
+                "scientific_name": "Bryopsida",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223287/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9123383333,
+                    45.542775
+                ]
+            },
+            "properties": {
+                "common_name": "shield lichens, sunburst lichens, rosette lichens, and allies",
+                "scientific_name": "Lecanoromycetidae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223200/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9124866667,
+                    45.5427716667
+                ]
+            },
+            "properties": {
+                "common_name": "turkey-tail",
+                "scientific_name": "Trametes versicolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223128/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9176033333,
+                    45.5446216667
+                ]
+            },
+            "properties": {
+                "common_name": "Lumpy Bracket",
+                "scientific_name": "Trametes gibbosa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510223004/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9177216667,
+                    45.5445616667
+                ]
+            },
+            "properties": {
+                "common_name": "Pincushion Moss",
+                "scientific_name": "Leucobryum glaucum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510222687/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9177216667,
+                    45.5445616667
+                ]
+            },
+            "properties": {
+                "common_name": "American beech",
+                "scientific_name": "Fagus grandifolia",
+                "proposed_name": "American beech",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510222077/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.917845,
+                    45.5445783333
+                ]
+            },
+            "properties": {
+                "common_name": "Mossy Maze Polypore",
+                "scientific_name": "Cerrena unicolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510221939/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9181083333,
+                    45.5444966667
+                ]
+            },
+            "properties": {
+                "common_name": "common greenshield lichen",
+                "scientific_name": "Flavoparmelia caperata",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510221803/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9183283333,
+                    45.54423
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510221713/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9183633333,
+                    45.544305
+                ]
+            },
+            "properties": {
+                "common_name": "turkey-tail",
+                "scientific_name": "Trametes versicolor",
+                "proposed_name": "turkey-tail",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220866/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92012,
+                    45.5432866667
+                ]
+            },
+            "properties": {
+                "common_name": "eastern hemlock",
+                "scientific_name": "Tsuga canadensis",
+                "proposed_name": "eastern hemlock",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220710/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92008,
+                    45.5434283333
+                ]
+            },
+            "properties": {
+                "common_name": "eastern hemlock",
+                "scientific_name": "Tsuga canadensis",
+                "proposed_name": "eastern hemlock",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220632/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9212466667,
+                    45.5428616667
+                ]
+            },
+            "properties": {
+                "common_name": "Woodsy Thyme-moss",
+                "scientific_name": "Plagiomnium cuspidatum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220499/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9214966667,
+                    45.5428383333
+                ]
+            },
+            "properties": {
+                "common_name": "striped maple",
+                "scientific_name": "Acer pensylvanicum",
+                "proposed_name": "striped maple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220222/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9228216667,
+                    45.5419916667
+                ]
+            },
+            "properties": {
+                "common_name": "Tinder Polypore",
+                "scientific_name": "Fomes excavatus",
+                "proposed_name": "Tinder Polypore",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220108/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9235616667,
+                    45.5418
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Coprinellus",
+                "proposed_name": "Coprinellus",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510220053/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0917107221,
+                    46.4247063518
+                ]
+            },
+            "properties": {
+                "common_name": "No common name",
+                "scientific_name": "Rigidoporus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510219809/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92848,
+                    45.5406216667
+                ]
+            },
+            "properties": {
+                "common_name": "shield lichens, sunburst lichens, rosette lichens, and allies",
+                "scientific_name": "Lecanoromycetidae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510219688/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.928555,
+                    45.5406633333
+                ]
+            },
+            "properties": {
+                "common_name": "turkey-tail",
+                "scientific_name": "Trametes versicolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510219626/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9306116667,
+                    45.5405216667
+                ]
+            },
+            "properties": {
+                "common_name": "Pear-shaped Puffball",
+                "scientific_name": "Apioperdon pyriforme",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510219543/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9097366667,
+                    45.5432166667
+                ]
+            },
+            "properties": {
+                "common_name": "large white trillium",
+                "scientific_name": "Trillium grandiflorum",
+                "proposed_name": "large white trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215584/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9095833333,
+                    45.5431416667
+                ]
+            },
+            "properties": {
+                "common_name": "red trillium",
+                "scientific_name": "Trillium erectum",
+                "proposed_name": "red trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215473/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.909875,
+                    45.5431366667
+                ]
+            },
+            "properties": {
+                "common_name": "sensitive fern",
+                "scientific_name": "Onoclea sensibilis",
+                "proposed_name": "sensitive fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215410/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9100883333,
+                    45.543055
+                ]
+            },
+            "properties": {
+                "common_name": "large white trillium",
+                "scientific_name": "Trillium grandiflorum",
+                "proposed_name": "large white trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215377/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9112633333,
+                    45.542605
+                ]
+            },
+            "properties": {
+                "common_name": "Smooth Yellow Violet",
+                "scientific_name": "Viola eriocarpa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215321/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9113216667,
+                    45.5426033333
+                ]
+            },
+            "properties": {
+                "common_name": "interrupted fern",
+                "scientific_name": "Osmunda claytoniana",
+                "proposed_name": "interrupted fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510215139/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9117583333,
+                    45.542675
+                ]
+            },
+            "properties": {
+                "common_name": "turkey-tail",
+                "scientific_name": "Trametes versicolor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510214869/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.91783,
+                    45.5445133333
+                ]
+            },
+            "properties": {
+                "common_name": "American beech",
+                "scientific_name": "Fagus grandifolia",
+                "proposed_name": "American beech",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510214766/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9212033333,
+                    45.5428716667
+                ]
+            },
+            "properties": {
+                "common_name": "Woodsy Thyme-moss",
+                "scientific_name": "Plagiomnium cuspidatum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510214712/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9213033333,
+                    45.5428883333
+                ]
+            },
+            "properties": {
+                "common_name": "striped maple",
+                "scientific_name": "Acer pensylvanicum",
+                "proposed_name": "striped maple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510214627/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.923575,
+                    45.54182
+                ]
+            },
+            "properties": {
+                "common_name": "Brittlestems and Allies",
+                "scientific_name": "Psathyrellaceae",
+                "proposed_name": "Brittlestems and Allies",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510214564/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        }
+    ]
+}

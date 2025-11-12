@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8698383333,
+                    45.4890166667
+                ]
+            },
+            "properties": {
+                "common_name": "sugar maple",
+                "scientific_name": "Acer saccharum",
+                "proposed_name": "sugar maple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513694243/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8698383333,
+                    45.4890166667
+                ]
+            },
+            "properties": {
+                "common_name": "American beech",
+                "scientific_name": "Fagus grandifolia",
+                "proposed_name": "American beech",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513694012/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8711383333,
+                    45.493275
+                ]
+            },
+            "properties": {
+                "common_name": "Solomon's plume",
+                "scientific_name": "Maianthemum racemosum",
+                "proposed_name": "false Solomon's seal",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683833/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.865345,
+                    45.4899616667
+                ]
+            },
+            "properties": {
+                "common_name": "juniper haircap moss",
+                "scientific_name": "Polytrichum juniperinum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683783/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8652283333,
+                    45.4879533333
+                ]
+            },
+            "properties": {
+                "common_name": "Tatarian honeysuckle",
+                "scientific_name": "Lonicera tatarica",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683633/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.86517,
+                    45.4879716667
+                ]
+            },
+            "properties": {
+                "common_name": "pussytoes",
+                "scientific_name": "Antennaria",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683563/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.86518,
+                    45.4880033333
+                ]
+            },
+            "properties": {
+                "common_name": "Morrow's honeysuckle",
+                "scientific_name": "Lonicera morrowii",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683414/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.867075,
+                    45.492225
+                ]
+            },
+            "properties": {
+                "common_name": "red columbine",
+                "scientific_name": "Aquilegia canadensis",
+                "proposed_name": "red columbine",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683322/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8702133333,
+                    45.4893866667
+                ]
+            },
+            "properties": {
+                "common_name": "Spiny Baskettail",
+                "scientific_name": "Epitheca spinigera",
+                "proposed_name": "Spiny Baskettail",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513683184/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        }
+    ]
+}

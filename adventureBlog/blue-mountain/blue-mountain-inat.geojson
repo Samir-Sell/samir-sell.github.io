@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.32238,
+                    44.501955
+                ]
+            },
+            "properties": {
+                "common_name": "bird's-foot trefoil",
+                "scientific_name": "Lotus corniculatus",
+                "proposed_name": "bird's-foot trefoil",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528238946/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.32238,
+                    44.501955
+                ]
+            },
+            "properties": {
+                "common_name": "knapweeds",
+                "scientific_name": "Centaurea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528238863/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3224283333,
+                    44.5019866667
+                ]
+            },
+            "properties": {
+                "common_name": "knapweeds",
+                "scientific_name": "Centaurea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528238674/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3224216667,
+                    44.5019716667
+                ]
+            },
+            "properties": {
+                "common_name": "bird's-foot trefoil",
+                "scientific_name": "Lotus corniculatus",
+                "proposed_name": "bird's-foot trefoil",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528238584/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3223783333,
+                    44.5019616667
+                ]
+            },
+            "properties": {
+                "common_name": "bird's-foot trefoils",
+                "scientific_name": "Lotus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528238525/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6098866667,
+                    45.3186916667
+                ]
+            },
+            "properties": {
+                "common_name": "Philadelphia fleabane",
+                "scientific_name": "Erigeron philadelphicus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519220041/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61322,
+                    45.3181633333
+                ]
+            },
+            "properties": {
+                "common_name": "tufted vetch",
+                "scientific_name": "Vicia cracca",
+                "proposed_name": "tufted vetch",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519219988/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6136033333,
+                    45.316955
+                ]
+            },
+            "properties": {
+                "common_name": "Great Egret",
+                "scientific_name": "Ardea alba",
+                "proposed_name": "Great Egret",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519219891/large.jpg",
+                "taxon_class": "Aves"
+            }
+        }
+    ]
+}

@@ -1,0 +1,940 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5129883333,
+                    45.3914966667
+                ]
+            },
+            "properties": {
+                "common_name": "Northern highbush blueberry",
+                "scientific_name": "Vaccinium corymbosum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508106545/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5101833333,
+                    45.3904866667
+                ]
+            },
+            "properties": {
+                "common_name": "spruces",
+                "scientific_name": "Picea",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508106498/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.512695,
+                    45.3944033333
+                ]
+            },
+            "properties": {
+                "common_name": "Wild Turkey",
+                "scientific_name": "Meleagris gallopavo",
+                "proposed_name": "Wild Turkey",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508106265/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5127616667,
+                    45.394355
+                ]
+            },
+            "properties": {
+                "common_name": "Mourning Dove",
+                "scientific_name": "Zenaida macroura",
+                "proposed_name": "Mourning Dove",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105950/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5122466667,
+                    45.393595
+                ]
+            },
+            "properties": {
+                "common_name": "Mourning Dove",
+                "scientific_name": "Zenaida macroura",
+                "proposed_name": "Mourning Dove",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105898/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51268,
+                    45.3930866667
+                ]
+            },
+            "properties": {
+                "common_name": "American elm",
+                "scientific_name": "Ulmus americana",
+                "proposed_name": "American elm",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105811/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5127116667,
+                    45.3930466667
+                ]
+            },
+            "properties": {
+                "common_name": "sensitive fern",
+                "scientific_name": "Onoclea sensibilis",
+                "proposed_name": "sensitive fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105770/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132966667,
+                    45.3927783333
+                ]
+            },
+            "properties": {
+                "common_name": "European Frog-bit",
+                "scientific_name": "Hydrocharis morsus-ranae",
+                "proposed_name": "European Frog-bit",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105724/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132966667,
+                    45.3927616667
+                ]
+            },
+            "properties": {
+                "common_name": "white meadowsweet",
+                "scientific_name": "Spiraea alba",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105667/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.513245,
+                    45.392675
+                ]
+            },
+            "properties": {
+                "common_name": "water horsetail",
+                "scientific_name": "Equisetum fluviatile",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105598/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51327,
+                    45.3924883333
+                ]
+            },
+            "properties": {
+                "common_name": "narrow-leaved cattail",
+                "scientific_name": "Typha angustifolia",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105546/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132583333,
+                    45.39238
+                ]
+            },
+            "properties": {
+                "common_name": "Red-winged Blackbird",
+                "scientific_name": "Agelaius phoeniceus",
+                "proposed_name": "Red-winged Blackbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105402/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132633333,
+                    45.39233
+                ]
+            },
+            "properties": {
+                "common_name": "Watershield",
+                "scientific_name": "Brasenia schreberi",
+                "proposed_name": "Watershield",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105355/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132883333,
+                    45.3920966667
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105279/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5023007715,
+                    45.3998981934
+                ]
+            },
+            "properties": {
+                "common_name": "American Royal Fern",
+                "scientific_name": "Osmunda spectabilis",
+                "proposed_name": "American Royal Fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105199/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5023007715,
+                    45.3998981934
+                ]
+            },
+            "properties": {
+                "common_name": "American Royal Fern",
+                "scientific_name": "Osmunda spectabilis",
+                "proposed_name": "American Royal Fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508105097/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.513295,
+                    45.3918033333
+                ]
+            },
+            "properties": {
+                "common_name": "American Beaver",
+                "scientific_name": "Castor canadensis",
+                "proposed_name": "Canadian Beaver",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508104999/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132883333,
+                    45.3920966667
+                ]
+            },
+            "properties": {
+                "common_name": "plants",
+                "scientific_name": "Plantae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508104881/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5023007715,
+                    45.3998981934
+                ]
+            },
+            "properties": {
+                "common_name": "American Royal Fern",
+                "scientific_name": "Osmunda spectabilis",
+                "proposed_name": "American Royal Fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508104753/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5023007715,
+                    45.3998981934
+                ]
+            },
+            "properties": {
+                "common_name": "Royal Ferns",
+                "scientific_name": "Osmunda",
+                "proposed_name": "Royal Ferns",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508104515/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.513295,
+                    45.3918033333
+                ]
+            },
+            "properties": {
+                "common_name": "Beavers",
+                "scientific_name": "Castor",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508104316/large.jpg",
+                "taxon_class": "Mammalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51325,
+                    45.391695
+                ]
+            },
+            "properties": {
+                "common_name": "feather mosses",
+                "scientific_name": "Hypnales",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103626/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51307,
+                    45.3915616667
+                ]
+            },
+            "properties": {
+                "common_name": "leatherleaf",
+                "scientific_name": "Chamaedaphne calyculata",
+                "proposed_name": "leatherleaf",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103568/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5130783333,
+                    45.39157
+                ]
+            },
+            "properties": {
+                "common_name": "leatherleaf",
+                "scientific_name": "Chamaedaphne calyculata",
+                "proposed_name": "leatherleaf",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103520/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51308,
+                    45.3915783333
+                ]
+            },
+            "properties": {
+                "common_name": "black chokeberry",
+                "scientific_name": "Aronia melanocarpa",
+                "proposed_name": "black chokeberry",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103489/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5129216667,
+                    45.3914633333
+                ]
+            },
+            "properties": {
+                "common_name": "tamarack",
+                "scientific_name": "Larix laricina",
+                "proposed_name": "tamarack",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103362/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5128783333,
+                    45.39142
+                ]
+            },
+            "properties": {
+                "common_name": "Eastern Kingbird",
+                "scientific_name": "Tyrannus tyrannus",
+                "proposed_name": "Eastern Kingbird",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103273/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51287,
+                    45.3913966667
+                ]
+            },
+            "properties": {
+                "common_name": "tamarack",
+                "scientific_name": "Larix laricina",
+                "proposed_name": "tamarack",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103044/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.512805,
+                    45.39128
+                ]
+            },
+            "properties": {
+                "common_name": "birches",
+                "scientific_name": "Betula",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508103004/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51253,
+                    45.39088
+                ]
+            },
+            "properties": {
+                "common_name": "Sphagnum mosses",
+                "scientific_name": "Sphagnum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508102960/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60975,
+                    45.3185966667
+                ]
+            },
+            "properties": {
+                "common_name": "bitter wintercress",
+                "scientific_name": "Barbarea vulgaris",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512939695/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6105033333,
+                    45.3183966667
+                ]
+            },
+            "properties": {
+                "common_name": "white clover",
+                "scientific_name": "Trifolium repens",
+                "proposed_name": "white clover",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512939609/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6119083333,
+                    45.3179633333
+                ]
+            },
+            "properties": {
+                "common_name": "Great Egret",
+                "scientific_name": "Ardea alba",
+                "proposed_name": "Great Egret",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512939541/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.611825,
+                    45.3176533333
+                ]
+            },
+            "properties": {
+                "common_name": "field penny-cress",
+                "scientific_name": "Thlaspi arvense",
+                "proposed_name": "field penny-cress",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512939477/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5133966667,
+                    45.3916466667
+                ]
+            },
+            "properties": {
+                "common_name": "tamarack",
+                "scientific_name": "Larix laricina",
+                "proposed_name": "tamarack",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101761/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5132833333,
+                    45.39165
+                ]
+            },
+            "properties": {
+                "common_name": "Northern highbush blueberry",
+                "scientific_name": "Vaccinium corymbosum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101475/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51275,
+                    45.3943283333
+                ]
+            },
+            "properties": {
+                "common_name": "Wild Turkey",
+                "scientific_name": "Meleagris gallopavo",
+                "proposed_name": "Wild Turkey",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101397/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51258,
+                    45.39418
+                ]
+            },
+            "properties": {
+                "common_name": "Wild Turkey",
+                "scientific_name": "Meleagris gallopavo",
+                "proposed_name": "Wild Turkey",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101337/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5131616667,
+                    45.3915783333
+                ]
+            },
+            "properties": {
+                "common_name": "tussock cottongrass",
+                "scientific_name": "Eriophorum vaginatum",
+                "proposed_name": "tussock cottongrass",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101300/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5129616667,
+                    45.3915133333
+                ]
+            },
+            "properties": {
+                "common_name": "leatherleaf",
+                "scientific_name": "Chamaedaphne calyculata",
+                "proposed_name": "leatherleaf",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101236/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.512795,
+                    45.3912116667
+                ]
+            },
+            "properties": {
+                "common_name": "Bog Labrador Tea",
+                "scientific_name": "Rhododendron groenlandicum",
+                "proposed_name": "Bog Labrador Tea",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508101143/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.512755,
+                    45.3911466667
+                ]
+            },
+            "properties": {
+                "common_name": "birches",
+                "scientific_name": "Betula",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100977/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5120383333,
+                    45.390095
+                ]
+            },
+            "properties": {
+                "common_name": "heath family",
+                "scientific_name": "Ericaceae",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100870/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51017,
+                    45.3904583333
+                ]
+            },
+            "properties": {
+                "common_name": "black spruce",
+                "scientific_name": "Picea mariana",
+                "proposed_name": "black spruce",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100788/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5090866667,
+                    45.391495
+                ]
+            },
+            "properties": {
+                "common_name": "meadow willow",
+                "scientific_name": "Salix petiolaris",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100691/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50917,
+                    45.3923416667
+                ]
+            },
+            "properties": {
+                "common_name": "marsh calla",
+                "scientific_name": "Calla palustris",
+                "proposed_name": "marsh calla",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100598/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5093616667,
+                    45.3934633333
+                ]
+            },
+            "properties": {
+                "common_name": "northern lady fern",
+                "scientific_name": "Athyrium angustum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100550/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5094533333,
+                    45.39347
+                ]
+            },
+            "properties": {
+                "common_name": "aspen oyster mushroom",
+                "scientific_name": "Pleurotus populinus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100435/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5095533333,
+                    45.3935166667
+                ]
+            },
+            "properties": {
+                "common_name": "sugar maple",
+                "scientific_name": "Acer saccharum",
+                "proposed_name": "sugar maple",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100391/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.509705,
+                    45.3935783333
+                ]
+            },
+            "properties": {
+                "common_name": "Creeping Foamflower",
+                "scientific_name": "Tiarella stolonifera",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100272/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5102916667,
+                    45.3936383333
+                ]
+            },
+            "properties": {
+                "common_name": "Solomon's plume",
+                "scientific_name": "Maianthemum racemosum",
+                "proposed_name": "Solomon's plume",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100161/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5136716667,
+                    45.3933216667
+                ]
+            },
+            "properties": {
+                "common_name": "Common Eastern Bumble Bee",
+                "scientific_name": "Bombus impatiens",
+                "proposed_name": "Common Eastern Bumble Bee",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508100085/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51043,
+                    45.3934366667
+                ]
+            },
+            "properties": {
+                "common_name": "staghorn sumac",
+                "scientific_name": "Rhus typhina",
+                "proposed_name": "staghorn sumac",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508099973/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5146633333,
+                    45.3932616667
+                ]
+            },
+            "properties": {
+                "common_name": "tall rattlesnake root",
+                "scientific_name": "Nabalus altissimus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508099868/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5091866667,
+                    45.3929533333
+                ]
+            },
+            "properties": {
+                "common_name": "vascular plants",
+                "scientific_name": "Tracheophyta",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508099758/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

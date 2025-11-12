@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5296883333,
+                    45.2454216667
+                ]
+            },
+            "properties": {
+                "common_name": "goldenrods",
+                "scientific_name": "Solidago",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547903782/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5298616667,
+                    45.2452533333
+                ]
+            },
+            "properties": {
+                "common_name": "Dragonhunter",
+                "scientific_name": "Hagenius brevistylus",
+                "proposed_name": "Dragonhunter",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547903746/large.jpg",
+                "taxon_class": "Insecta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.52985,
+                    45.2450783333
+                ]
+            },
+            "properties": {
+                "common_name": "northern evening-primrose",
+                "scientific_name": "Oenothera parviflora",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547903614/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.52893,
+                    45.2430116667
+                ]
+            },
+            "properties": {
+                "common_name": "goldenrods",
+                "scientific_name": "Solidago",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547903558/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.589855,
+                    45.35187
+                ]
+            },
+            "properties": {
+                "common_name": "cinnamon fern",
+                "scientific_name": "Osmundastrum cinnamomeum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504174199/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5861716667,
+                    45.348845
+                ]
+            },
+            "properties": {
+                "common_name": "fire cherry",
+                "scientific_name": "Prunus pensylvanica",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173747/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5872533333,
+                    45.3517783333
+                ]
+            },
+            "properties": {
+                "common_name": "red maple",
+                "scientific_name": "Acer rubrum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173715/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5864783333,
+                    45.3508383333
+                ]
+            },
+            "properties": {
+                "common_name": "Canada plum",
+                "scientific_name": "Prunus nigra",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173676/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5863633333,
+                    45.350795
+                ]
+            },
+            "properties": {
+                "common_name": "red trillium",
+                "scientific_name": "Trillium erectum",
+                "proposed_name": "red trillium",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173643/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.58597,
+                    45.3495033333
+                ]
+            },
+            "properties": {
+                "common_name": "dwarf raspberry",
+                "scientific_name": "Rubus pubescens",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173608/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5861716667,
+                    45.348845
+                ]
+            },
+            "properties": {
+                "common_name": "plums, cherries, and allies",
+                "scientific_name": "Prunus",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173508/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5858833333,
+                    45.3466466667
+                ]
+            },
+            "properties": {
+                "common_name": "Fungi Including Lichens",
+                "scientific_name": "Fungi",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173458/large.jpg",
+                "taxon_class": "Fungi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.58793,
+                    45.34772
+                ]
+            },
+            "properties": {
+                "common_name": "Labrador violet",
+                "scientific_name": "Viola labradorica",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173353/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5971033333,
+                    45.3530283333
+                ]
+            },
+            "properties": {
+                "common_name": "field horsetail",
+                "scientific_name": "Equisetum arvense",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173313/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5915716667,
+                    45.3478833333
+                ]
+            },
+            "properties": {
+                "common_name": "cinnamon fern",
+                "scientific_name": "Osmundastrum cinnamomeum",
+                "proposed_name": "cinnamon fern",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173212/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6063319278,
+                    45.3163510468
+                ]
+            },
+            "properties": {
+                "common_name": "fire cherry",
+                "scientific_name": "Prunus pensylvanica",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173142/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6063594204,
+                    45.316337049
+                ]
+            },
+            "properties": {
+                "common_name": "white poplar",
+                "scientific_name": "Populus alba",
+                "proposed_name": "white poplar",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173086/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.606260661,
+                    45.3163666921
+                ]
+            },
+            "properties": {
+                "common_name": "white poplar",
+                "scientific_name": "Populus alba",
+                "proposed_name": "white poplar",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504173019/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6063050771,
+                    45.3163310247
+                ]
+            },
+            "properties": {
+                "common_name": "serviceberries",
+                "scientific_name": "Amelanchier",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504172984/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.606260661,
+                    45.3163666921
+                ]
+            },
+            "properties": {
+                "common_name": "Birds",
+                "scientific_name": "Aves",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504172701/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6061581033,
+                    45.316244691
+                ]
+            },
+            "properties": {
+                "common_name": "Gadwall",
+                "scientific_name": "Mareca strepera",
+                "proposed_name": "Gadwall",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504172650/large.jpg",
+                "taxon_class": "Aves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.606292449,
+                    45.3163352469
+                ]
+            },
+            "properties": {
+                "common_name": "white clover",
+                "scientific_name": "Trifolium repens",
+                "proposed_name": "white clover",
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504172522/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6063066982,
+                    45.3163397313
+                ]
+            },
+            "properties": {
+                "common_name": "Alfalfa",
+                "scientific_name": "Medicago sativa",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504171996/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6063139905,
+                    45.3163375101
+                ]
+            },
+            "properties": {
+                "common_name": "fragrant sumac",
+                "scientific_name": "Rhus aromatica",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504171839/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.589855,
+                    45.35187
+                ]
+            },
+            "properties": {
+                "common_name": "cinnamon fern",
+                "scientific_name": "Osmundastrum cinnamomeum",
+                "proposed_name": null,
+                "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504171739/large.jpg",
+                "taxon_class": "Plantae"
+            }
+        }
+    ]
+}
